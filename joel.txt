@@ -1,0 +1,1 @@
+ No me sirve git status en VS Code
